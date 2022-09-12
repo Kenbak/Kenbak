@@ -1,4 +1,6 @@
 ###  
+Hello there 👋 
+
 🚂 Former student of Le Wagon Paris.
 
 🤖 I can code in Ruby on Rails, JS, HTML & CSS
