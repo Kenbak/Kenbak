@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ruby on rails**
 
-<a href="www.antoineserval.com" target="blank">Check out my portfolio!</a>
+<a href="http://www.antoineserval.com" target="blank">Check out my portfolio!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
