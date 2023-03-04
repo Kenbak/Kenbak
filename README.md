@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine Serval</h1>
 <h3 align="center">Creative Developer // Full-stack Developer // With love from planet Earth 🌏</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **ruby on rails**
-
 <a href="http://www.antoineserval.com" target="blank">Check out my portfolio!</a>
 
 <h3 align="left">Connect with me:</h3>
