@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antoine Serval</h1>
+<h1 align="center">Hi 👋, I'm Kenbak</h1>
 <h3 align="center">Creative Developer // Full-stack Developer // With love from planet Earth 🌏</h3>
 
 <a href="http://www.antoineserval.com" target="blank">Check out my portfolio!</a>
